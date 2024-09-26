@@ -5,11 +5,11 @@
     box-sizing: border-box;
   }
 .min-vh-100{
-    min-height: 100vh !important;
+    min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #d5e1ef !important;
+    background-color: #d5e1ef;
 }
 .card{
     width: 260px;
@@ -19,12 +19,12 @@
     border-radius: 10px;
 }
 .card-image{
-    height: 200px !important;
+    height: 200px;
     border-radius: 5px;
     overflow: hidden;
 }
 .w-100{
-    width: 100% !important;
+    width: 100%;
 }
 p{
     font-size: 15px;
